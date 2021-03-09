@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Midterm</string>
+    <string name="title">Unit Conversion Calculator</string>
+    <string name="conversion_one_name">Feet to Meters</string>
+    <string name="conversion_two_name">Inches to Centimeters</string>
+    <string name="conversion_three_name">Pounds to Grams</string>
+    <string name="Main_page_button">Select the Conversion</string>
+    <string name="unit_one">inches</string>
+    <string name="unit_two">Centimeters</string>
+    <string name="output">0</string>
+</resources>
